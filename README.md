@@ -34,7 +34,6 @@ desenvolvimento na modalidade Front-End e futuramente em Back-end para um melhor
       <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-![snake gif](https://github.com/sdc-jeferson/sdc-jeferson/blob/output/github-contribution-grid-snake.gif)
 
 
 
