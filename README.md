@@ -18,21 +18,25 @@ desenvolvimento na modalidade Front-End e futuramente em Back-end para um melhor
 
 ##
 
-<div>
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=sdc-jeferson&show_icons=true&theme=calm_pink&include_all_commits=true&count_private=true"/>
-    <img align="right" height="150em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdc-jeferson&layout=compact&langs_count=16&theme=calm_pink"/>
+<div align="center">
+  <a href="https://github.com/sdc-jeferson">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sdc-jeferson&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdc-jeferson&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
-<div style="display: inline-block">
-    <h2>Technology Stacks</h2>
-    <img align="center" alt="jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="center" valign="top"><br>
+      <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <img align="center" alt="github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+      <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-![Snake animation](https://github.com/sdc-jeferson/sdc-jeferson/blob/output/github-contribution-grid-snake.svg)
-  
-
+<div align="center">
+  ![Snake animation](https://github.com/sdc-jeferson/sdc-jeferson/blob/output/github-contribution-grid-snake.svg) 
+</div>
 
 
 
