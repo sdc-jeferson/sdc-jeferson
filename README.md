@@ -35,7 +35,9 @@ desenvolvimento na modalidade Front-End e futuramente em Back-end para um melhor
 </div>
 
 <div align="center">
+    
   ![Snake animation](https://github.com/sdc-jeferson/sdc-jeferson/blob/output/github-contribution-grid-snake.svg) 
+  
 </div>
 
 
