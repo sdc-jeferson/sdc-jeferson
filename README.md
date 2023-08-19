@@ -34,7 +34,11 @@ desenvolvimento na modalidade Front-End e futuramente em Back-end para um melhor
       <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdc-jeferson/sdc-jeferson/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sdc-jeferson/sdc-jeferson/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sdc-jeferson/sdc-jeferson/output/github-contribution-grid-snake.svg">
+</picture>
 
 
     
