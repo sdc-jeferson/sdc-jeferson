@@ -20,7 +20,7 @@ desenvolvimento na modalidade Front-End e futuramente em Back-end para um melhor
 
 <div>
     <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=sdc-jeferson&show_icons=true&theme=calm_pink&include_all_commits=true&count_private=true"/>
-    <img align="right" height="150em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdc-jeferson&layout=compact&langs_count=16&theme=calm_pink"/>
+    <img align="right" height="150em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdc-jeferson&layout=compact&langs_count=16&theme=calm_pink"/>
 </div>
 
 <div style="display: inline-block">
