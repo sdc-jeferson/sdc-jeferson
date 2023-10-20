@@ -16,7 +16,7 @@
 <p align="justify" >Graduando em Analise e Desenvolvimento de Sistemas, atualmente trabalhando como Técnico em Processamento de Dados (Mainframe) e com alguns anos de experiência nessa área, estou em fase de 
 desenvolvimento na modalidade Front-End e futuramente em Back-end para um melhor resquício dessas linguagens a fim de concilá-las junto a minha área . </p>  
 
-##
+## ⚙️ &nbsp;GitHub Analytics
 
 <div>
   <a href="https://github.com/sdc-jeferson">
@@ -24,6 +24,10 @@ desenvolvimento na modalidade Front-End e futuramente em Back-end para um melhor
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdc-jeferson&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+  <br>
+  
+  ## 🛠 &nbsp;Ttechnologies Stack
+  <br>
   <br>
   <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Jeferson-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp; &nbsp; &nbsp; &nbsp;
