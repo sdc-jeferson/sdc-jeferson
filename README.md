@@ -18,22 +18,56 @@ desenvolvimento na modalidade Front-End e futuramente em Back-end para um melhor
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/sdc-jeferson">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sdc-jeferson&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdc-jeferson&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+  <br>
+  <div style="display: inline_block" align="left"><br>
+  <img align="center" alt="Jeferson-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="center" alt="Jeferson-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="center" alt="Jeferson-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+  <br>
+  <br>
+  <br>
+  <img align="center" alt="Jeferson-Tailwind" height="50" width="60" src="https://skillicons.dev/icons?i=tailwind">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="left" alt="Jeferson-Sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+ <br>
+ <br>
+ <br>
+   <img align="left" alt="Jeferson-sqlite" height="50" width="60" src="https://skillicons.dev/icons?i=sqlite">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="left" alt="Jeferson-MySQL" height="50" width="60" src="https://skillicons.dev/icons?i=mysql">&nbsp; &nbsp; &nbsp; &nbsp;
+ <img align="left" alt="Jeferson-Markdown" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+ <img align="left" alt="Jeferson-VisualStudioCode" height="50" width="60" src="https://skillicons.dev/icons?i=vscode">&nbsp; &nbsp; &nbsp; &nbsp;
+  <br>
+  <br>
+  <br>
+  <br>
+   <img align="left" alt="Jeferson-NodeJS" height="50" width="60" src="https://skillicons.dev/icons?i=nodejs">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="left" alt="Jeferson-Express" height="50" width="60" src="https://skillicons.dev/icons?i=express">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="left" alt="Jeferson-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+ <img align="left" alt="Jeferson-Github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+  <br>
+  <br>
+  <br>
+  <br>
+ <img align="left" alt="Jeferson-Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
+  <br>
+  <br>
+  <br>
+  <br>
+  <img align="left" alt="Jeferson-SVG" height="50" width="60" src="https://skillicons.dev/icons?i=svg">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="left" alt="Jeferson-Vercel" height="50" width="60" src="https://skillicons.dev/icons?i=vercel">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="left" alt="Jeferson-Netlify" height="50" width="60" src="https://skillicons.dev/icons?i=netlify">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="left" alt="Jeferson-Vite" height="50" width="60" src="https://skillicons.dev/icons?i=vite">&nbsp; &nbsp; &nbsp; &nbsp;
+  <br>
+  <br>
+  <br>
+  <br>
+  <img align="center" alt="linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">      
 
-<div align="center" valign="top"><br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="-Sass" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> <br> <br>
-      <img align="center" alt="git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-      <img align="center" alt="Github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-      <img align="center" alt="linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">      
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdc-jeferson/sdc-jeferson/output/github-contribution-grid-snake-dark.svg">
