@@ -1,5 +1,4 @@
-### Hi, I'm Jeferson!
-### A learning web developer.
+## 👋  Olá, eu sou o Jeferson, um desenvolvedor full stack apaixonado pelo que faz!
 
 <div>
     <a href = "mailto: jeferson.contato.df@gmail.com">
@@ -23,51 +22,28 @@ desenvolvimento na modalidade Front-End e futuramente em Back-end para um melhor
 </div>
   <br>
   
-  ## 🛠 &nbsp;Ttechnologies Stack
-  <br>
-  <br>
-  <div style="display: inline_block" align="left"><br>
-  <img align="center" alt="Jeferson-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp; &nbsp; &nbsp; &nbsp;
-  <img align="center" alt="Jeferson-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
-  <img align="center" alt="Jeferson-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
-  <br>
-  <br>
-  <br>
-  <img align="center" alt="Jeferson-Tailwind" height="50" width="60" src="https://skillicons.dev/icons?i=tailwind">&nbsp; &nbsp; &nbsp; &nbsp;
-  <img align="left" alt="Jeferson-Sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
- <br>
- <br>
- <br>
-   <img align="left" alt="Jeferson-sqlite" height="50" width="60" src="https://skillicons.dev/icons?i=sqlite">&nbsp; &nbsp; &nbsp; &nbsp;
-  <img align="left" alt="Jeferson-MySQL" height="50" width="60" src="https://skillicons.dev/icons?i=mysql">&nbsp; &nbsp; &nbsp; &nbsp;
- <img align="left" alt="Jeferson-Markdown" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
- <img align="left" alt="Jeferson-VisualStudioCode" height="50" width="60" src="https://skillicons.dev/icons?i=vscode">&nbsp; &nbsp; &nbsp; &nbsp;
-  <br>
-  <br>
-  <br>
-  <br>
-   <img align="left" alt="Jeferson-NodeJS" height="50" width="60" src="https://skillicons.dev/icons?i=nodejs">&nbsp; &nbsp; &nbsp; &nbsp;
-  <img align="left" alt="Jeferson-Express" height="50" width="60" src="https://skillicons.dev/icons?i=express">&nbsp; &nbsp; &nbsp; &nbsp;
-  <img align="left" alt="Jeferson-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
- <img align="left" alt="Jeferson-Github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">&nbsp; &nbsp; &nbsp; &nbsp;
-  <br>
-  <br>
-  <br>
-  <br>
- <img align="left" alt="Jeferson-Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
-  <br>
-  <br>
-  <br>
-  <br>
-  <img align="left" alt="Jeferson-SVG" height="50" width="60" src="https://skillicons.dev/icons?i=svg">&nbsp; &nbsp; &nbsp; &nbsp;
-  <img align="left" alt="Jeferson-Vercel" height="50" width="60" src="https://skillicons.dev/icons?i=vercel">&nbsp; &nbsp; &nbsp; &nbsp;
-  <img align="left" alt="Jeferson-Netlify" height="50" width="60" src="https://skillicons.dev/icons?i=netlify">&nbsp; &nbsp; &nbsp; &nbsp;
-  <img align="left" alt="Jeferson-Vite" height="50" width="60" src="https://skillicons.dev/icons?i=vite">&nbsp; &nbsp; &nbsp; &nbsp;
-  <br>
-  <br>
-  <br>
-  <br>
-  <img align="center" alt="linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">      
+  ## 🛠 &nbsp;Tech Stacks
+ <div>
+      💻  Front-end: <br/> <br/>
+     <img style="border-radius:6px" height="30px" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" /> &nbsp;
+     <img height="30px" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/> &nbsp;
+     <img height="30px" src="https://img.shields.io/badge/CSS%20Modules-000000.svg?style=for-the-badge&logo=CSS-Modules&logoColor=white"/> &nbsp;
+     <img height="30px" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/> &nbsp;
+     <img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/> &nbsp;
+     <img height="30px" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/> &nbsp;
+     <img height="30px" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/> <br/><br/>
+</div>
+<div>
+    ⚙️  Back-end e Banco de Dados <br/> <br/>
+     <img height="30px" src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>&nbsp; 
+     <img height="30px" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>&nbsp; 
+     <img height="30px" src="https://img.shields.io/badge/Fastify-000000.svg?style=for-the-badge&logo=Fastify&logoColor=white"/>&nbsp; 
+     <img height="30px" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/>&nbsp; 
+     <img height="30px" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>&nbsp; 
+     <img height="30px" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>&nbsp; 
+     <img height="30px" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp; 
+         
+ </div>    
 
 
 <picture>
